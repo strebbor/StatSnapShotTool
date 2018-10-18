@@ -1,0 +1,12 @@
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\bin\Release\netcoreapp1.1\appsettings.json
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\bin\Release\netcoreapp1.1\appsettings.preprod.json
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\bin\Release\netcoreapp1.1\statConfiguration.json
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\bin\Release\netcoreapp1.1\SeqSnapshotTool.deps.json
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\bin\Release\netcoreapp1.1\SeqSnapshotTool.runtimeconfig.json
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\bin\Release\netcoreapp1.1\SeqSnapshotTool.runtimeconfig.dev.json
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\bin\Release\netcoreapp1.1\SeqSnapshotTool.dll
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\bin\Release\netcoreapp1.1\SeqSnapshotTool.pdb
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\obj\Release\netcoreapp1.1\SeqSnapshotTool.AssemblyInfo.cs
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\obj\Release\netcoreapp1.1\SeqSnapshotTool.dll
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\obj\Release\netcoreapp1.1\SeqSnapshotTool.pdb
+C:\Dev\DevApps\SeqSnapshotTool\SeqSnapshotTool\obj\Release\netcoreapp1.1\SeqSnapshotTool.csprojResolveAssemblyReference.cache

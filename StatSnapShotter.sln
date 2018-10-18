@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatSnapShotter", "StatSnapShotter\StatSnapShotter.csproj", "{2D3102B1-252E-49BC-A397-8A371B58FCBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatSnapShotterTests", "StatSnapShotterTests\StatSnapShotterTests.csproj", "{91F27D2D-DA5F-482E-9383-D53BB872545C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3102B1-252E-49BC-A397-8A371B58FCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3102B1-252E-49BC-A397-8A371B58FCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3102B1-252E-49BC-A397-8A371B58FCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3102B1-252E-49BC-A397-8A371B58FCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F27D2D-DA5F-482E-9383-D53BB872545C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F27D2D-DA5F-482E-9383-D53BB872545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F27D2D-DA5F-482E-9383-D53BB872545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F27D2D-DA5F-482E-9383-D53BB872545C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SeqSnapshotTool": {
+      "commandName": "Project"
+    },
+    "StatSnapShotter": {
+      "commandName": "Project"
+    }
+  }
+}

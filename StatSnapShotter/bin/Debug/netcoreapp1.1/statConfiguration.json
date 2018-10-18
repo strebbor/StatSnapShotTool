@@ -1,0 +1,18 @@
+﻿[
+  {
+    "name": "Commercial Test (SecureHost)",
+    "query": "SELECT * FROM STREAM WHERE Environment = 'Commercial.Test.SecureHost' AND @Level = 'Error'"
+  },
+  {
+    "name": "Commercial Train (SecureHost)",
+    "query": "SELECT * FROM STREAM WHERE Environment = 'Commercial.Train.SecureHost' AND @Level = 'Error' "
+  },
+  {
+    "name": "Commercial DevTest2 (SecureHost)",
+    "query": "SELECT * FROM STREAM WHERE Environment = 'Commercial.DevTest2.SecureHost' AND @Level = 'Error'"
+  },
+  {
+    "name": "Commercial Dev2 (SecureHost)",
+    "query": "SELECT * FROM STREAM WHERE Environment = 'Commercial.Dev2.SecureHost' AND @Level = 'Error'"
+  }
+]

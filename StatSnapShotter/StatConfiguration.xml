@@ -1,0 +1,6 @@
+﻿<ArrayOfStatElement>
+  <StatElement>
+    <name>Commercial DevTest2 (SecureHost)</name>   
+    <query>SELECT * FROM STREAM WHERE Environment = 'Commercial.DevTest2.SecureHost' AND @Level = 'Error'</query>
+  </StatElement>
+</ArrayOfStatElement>
